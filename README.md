@@ -5,7 +5,7 @@ This python program uses selenium webdriver to play travian. I made it using a c
 
 Tasks that are currently automated include raiding, building troops, dodging incoming attacks, upgrading resource fields, constructing buildings, and sending hero on adventures.
 
-Thing that need to be added include adapting code for multiple villages, sending raid list through gold club, and setting up trade routes. Also, right now there is no way to start a new construction, only upgrade existing buildings. This is easy to add but I am bored of travian right now.
+Things that need to be added include adapting code for multiple villages, sending raid list through gold club, and setting up trade routes. Also, right now there is no way to start a new construction, only upgrade existing buildings. This is easy to add but I am bored of travian right now.
 
 If you want to use it there are a few things you need to do.
 
