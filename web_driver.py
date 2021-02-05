@@ -7,7 +7,7 @@ import string
 # Fill in credentials here.
 server = 'tx3.' # Example url
 username = 'User'
-password = 'Passowrd'
+password = 'Password'
 home_url = 'https://' + server + 'travian.com/'
 
 
