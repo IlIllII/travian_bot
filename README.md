@@ -10,3 +10,5 @@ Things that need to be added include adapting code for multiple villages, sendin
 If you want to use it there are a few things you need to do before starting.
 
 First, you need to input your credentials on the webdriver file. Next, populate build_queue.txt (the building codes can be found in brain.py). If you want raids sent out, you have to fill out the cycler text files. As their name suggests, each is for a different unit type. If you want to train troops, right now you have to edit the amount in the train() function near the bottom of brain.py, but as it stands the function only trains legionnaires. Finally, you can edit which tasks the program will execute by changing the program() function in brain.py with your desired list of task options.
+
+Good luck!
