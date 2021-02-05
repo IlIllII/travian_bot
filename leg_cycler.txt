@@ -1,0 +1,12 @@
+Leg,10,18,35,raid
+Leg,2,-13,32,raid
+Leg,2,-9,33,raid
+Leg,2,15,26,raid
+Leg,2,-4,37,raid
+Leg,2,16,38,raid
+Leg,2,19,38,raid
+Leg,2,-5,39,raid
+Leg,2,-20,32,raid
+Leg,2,6,41,raid
+Leg,2,13,36,raid
+Leg,2,7,31,raid
