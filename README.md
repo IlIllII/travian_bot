@@ -17,7 +17,7 @@ Its a Python program that uses selenium webdriver to play travian. I made it usi
 
 - Multiple village switching
 - Sending raid list through gold club (I didn't buy gold club)
-- Setting up trade routes
+- Setting up trade routes (again, gold club)
 - Generating a build queue
 - and more!
 
