@@ -1,6 +1,6 @@
 # travian_bot
 
-This bot uses a webdriver to play the browser game Travian.
+This bot plays the browser game Travian.
 
 Its a Python program that uses selenium webdriver to play travian. I made it using a chromedriver and I played romans, I am not sure if it will work for other tribes because I don't know how Travian names the HTML tags for the other tribes. I only played for a week and not long enough to get a second village so there are only features for 1 village. I assume it is easy to adapt the code for multiple villages, but I would have to see the HTML to make any definitive statements.
 
