@@ -44,8 +44,3 @@ Empirically, using this bot can get you in the top 10 for at least the first wee
 If you actively raid abandoned oases with legionnaires, you will be able to have around 200 legionnaires by the end of beginner's protection and a top 5% army and pretty good raiding, but not top 10. If you want to be a top 10 raider in the first week you need to clear fresh oases with your hero and it helps to play overnight, especially the first couple days. It is hard to automate this because it requires strict timing and attention to what is happening around your village, which is easier to do manually. On the plus side, if you clear oases your hero will get experience as well and you can start automatically raiding after the oases repopulate. Additionally, it helps to make several accounts at server start and play whichever has the best oases surrounding it, preferably within one or two tiles of your village so you have easy resource targets.
 
 Good luck!
-
-## Project Reflection
-
-I learned a lot writing this program and there is a lot I would do differently in the future. Notably, I used a lot of magic numbers for what really could be thought of as script settings, such as running frequency, delay timings, etc. I should have put them in variables and then put them in a separate file so you could easily update the script rather than having to go though the code and change these seemingly random numbers to tweak the bot.
-
